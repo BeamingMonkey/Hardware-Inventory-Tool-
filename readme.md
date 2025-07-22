@@ -1,4 +1,4 @@
-\ 🏦 Hardware Inventory Tool (XP to Windows 11 Compatible)
+ 🏦 Hardware Inventory Tool (XP to Windows 11 Compatible)
 
 
 
