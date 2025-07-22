@@ -1,8 +1,8 @@
-\# 🏦 Hardware Inventory Tool (XP to Windows 11 Compatible)
+\ 🏦 Hardware Inventory Tool (XP to Windows 11 Compatible)
 
 
 
-This lightweight PowerShell script collects basic hardware and system inventory information from any Windows PC (XP to Windows 11). It’s designed for IT engineers managing inventory across co-operative banks and branch offices.
+This lightweight PowerShell script collects basic hardware and system inventory information from any Windows PC . It’s designed for IT engineers managing inventory collection 
 
 
 
